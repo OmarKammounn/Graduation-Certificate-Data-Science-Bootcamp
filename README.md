@@ -1,5 +1,3 @@
-# Graduation-Certificate-Data-Science-Bootcamp
-
 # Title:
 Data Science Bootcamp Certificate
 
